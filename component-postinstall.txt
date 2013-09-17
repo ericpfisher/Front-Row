@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+#The $2 parameter is the full path to the installed component.  The installer package runs this script after installation.
+
+touch -c "$2"
+
+echo "Ran component postinstall script to touch $2"
+
+exit 0
