@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>applet</string>
 	<key>CFBundleIconFile</key>
-	<string>applet</string>
+	<string>frontrow</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.apple.ScriptEditor.id.Front-Row</string>
 	<key>CFBundleInfoDictionaryVersion</key>
